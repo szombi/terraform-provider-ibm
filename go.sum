@@ -100,8 +100,6 @@ github.com/DataDog/datadog-go v2.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3
 github.com/DataDog/datadog-go v3.2.0+incompatible h1:qSG2N4FghB1He/r2mFrWKCaL7dXCilEuNEeAn20fdD4=
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/DataDog/zstd v1.4.4/go.mod h1:1jcaCB/ufaK+sKp1NBhlGmpz41jOoPQ35bpF36t7BBo=
-github.com/IBM-Cloud/bluemix-go v0.0.0-20231123082353-50e8cc9c6959 h1:dvvI4ybsYx6M7fFGrg3HjlNnYxEBi9jJdSU0JhjJbG8=
-github.com/IBM-Cloud/bluemix-go v0.0.0-20231123082353-50e8cc9c6959/go.mod h1:jIGLnIfj+uBv2ALz3rVHzNbNwt0V/bEWNeJKECa8Q+k=
 github.com/IBM-Cloud/container-services-go-sdk v0.0.0-20231106114255-c50117860a3c h1:tRS4VuOG3lHNG+yrsh3vZZQDVNLuFJB0oZbTJp9YXds=
 github.com/IBM-Cloud/container-services-go-sdk v0.0.0-20231106114255-c50117860a3c/go.mod h1:xUQL9SGAjoZFd4GNjrjjtEpjpkgU7RFXRyHesbKTjiY=
 github.com/IBM-Cloud/ibm-cloud-cli-sdk v0.5.3/go.mod h1:RiUvKuHKTBmBApDMUQzBL14pQUGKcx/IioKQPIcRQjs=
@@ -1512,6 +1510,8 @@ github.com/stretchr/testify v1.8.2/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
+github.com/szombi/bluemix-go v0.0.0-20231214140151-0e89da52cb8b h1:0GJ/ClcrLLJPeYU03sXM+kvc8LOo2+6KBDn/FZiuQAs=
+github.com/szombi/bluemix-go v0.0.0-20231214140151-0e89da52cb8b/go.mod h1:jIGLnIfj+uBv2ALz3rVHzNbNwt0V/bEWNeJKECa8Q+k=
 github.com/tencentcloud/tencentcloud-sdk-go v3.0.171+incompatible h1:K3fcS92NS8cRntIdu8Uqy2ZSePvX73nNhOkKuPGJLXQ=
 github.com/tidwall/pretty v1.0.0/go.mod h1:XNkn88O1ChpSDQmQeStsy+sBenx6DDtFZJxhVysOjyk=
 github.com/tj/assert v0.0.0-20171129193455-018094318fb0/go.mod h1:mZ9/Rh9oLWpLLDRpvE+3b7gP/C2YyLFYxNmcLnPTMe0=
